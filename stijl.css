@@ -7,10 +7,6 @@ body {
   margin-bottom: 5em;
 }
 
-
-
-
-
 @keyframes animatie {
 0% {color: #a0306b;}
 50% {color: white;}
@@ -114,13 +110,6 @@ p {
 .contact{
   text-align: center;
   font-size: 20px;
-}
-
-
-
-
-
-
 }
 
 form {
